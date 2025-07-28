@@ -32,8 +32,8 @@ Une API RESTful basique pour gérer une liste de produits, développée avec Nod
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/hmoustaphaousmane/sample-backend.git
-    cd todo-app
+    git clone https://https://github.com/hisseinblaise/serveur-basique.git
+    cd stock-app
     ````
 
 2. Les installations des dependencies:
