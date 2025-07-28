@@ -1,4 +1,3 @@
-```markdown
 # Backend de projet de base de données stock
 
 ---
@@ -261,9 +260,3 @@ Remplace `<id>`avec l'actual ID du stock.
     "__v": 0
   }
 }
-```
-
-
-
-[JWT](https://jwt.io)
-```
