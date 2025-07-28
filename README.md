@@ -33,7 +33,7 @@ Une API RESTful basique pour gérer une liste de produits, développée avec Nod
 
     ```bash
     git clone https://https://github.com/hisseinblaise/serveur-basique.git
-    cd stock-app
+    cd serveur-basique-app
     ````
 
 2. Les installations des dependencies:
