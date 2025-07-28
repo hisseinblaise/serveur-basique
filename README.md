@@ -58,7 +58,7 @@ Une API RESTful basique pour gérer une liste de produits, développée avec Nod
 
 ## API Reference (Utilsé avec Postman)
 
-Vous pouvez tester l'API avec Postman. Vous trouverez ci-dessous des exemples de requêtes que vous pouvez reproduire dans Postman.
+###Vous pouvez tester l'API avec Postman. Vous trouverez ci-dessous des exemples de requêtes que vous pouvez reproduire dans Postman.
 ---
 
 ### Afficher tous les produits de la base de données.
