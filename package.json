@@ -1,0 +1,33 @@
+{
+  "name": "serveur-basique",
+  "version": "1.0.0",
+  "description": "Création du serveur basique pour la base de données stocks avec MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hisseinblaise/serveur-basique.git"
+  },
+  "keywords": [
+    "Express",
+    "Node.js",
+    "Backend",
+    "Projet"
+  ],
+  "author": "Hissein Blaise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hisseinblaise/serveur-basique/issues"
+  },
+  "homepage": "https://github.com/hisseinblaise/serveur-basique#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4",
+    "nodemon": "^3.1.10"
+  }
+}
